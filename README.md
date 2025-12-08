@@ -1,1 +1,3 @@
 # ANALYSE-BESOIN-EL-ER-CL
+
+Emeric LESAGE - Rémi EECKHOUT - Corentin LEYS
