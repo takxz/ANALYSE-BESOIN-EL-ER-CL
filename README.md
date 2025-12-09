@@ -2,6 +2,6 @@
 
 Emeric LESAGE - Rémi EECKHOUT - Corentin LEYS - Youcef Ghermaoui
 
-Lien du Trello : https://trello.com/b/pv0IVTUA/analyse-besoin-el-rm-cl
-Lien du draw.io (diagrames) : https://app.diagrams.net/#G186r9NWLY90ITPSODtisrPWXHZnJHEU4o#%7B"pageId"%3A"-k5l2Q_O5lQ-Y2My_ckt"%7D
-Lien du google doc : https://docs.google.com/document/d/13dR0e3Wi-UeoX9cZauCvoTqKGxRUe49hpB1u0nUfR5Y/edit?usp=sharing
+- Lien du Trello : https://trello.com/b/pv0IVTUA/analyse-besoin-el-rm-cl
+- Lien du draw.io (diagrames) : https://app.diagrams.net/#G186r9NWLY90ITPSODtisrPWXHZnJHEU4o#%7B"pageId"%3A"-k5l2Q_O5lQ-Y2My_ckt"%7D
+- Lien du google doc : https://docs.google.com/document/d/13dR0e3Wi-UeoX9cZauCvoTqKGxRUe49hpB1u0nUfR5Y/edit?usp=sharing
