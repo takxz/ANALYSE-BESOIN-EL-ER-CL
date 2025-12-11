@@ -7,3 +7,4 @@ Emeric LESAGE - Rémi EECKHOUT - Corentin LEYS - Youcef Ghermaoui
 - Lien de l'Excalidraw (diagrame & Wireframe) : https://excalidraw.com/#room=c989a6449b00a0cbcfee,aTrXDlAizMklFaxmIECk6Q
 - Lien du Figma (Design) : https://www.figma.com/files/team/1580133765927478200/all-projects?fuid=1498610423091382626
 - Lien du Google Doc : https://docs.google.com/document/d/13dR0e3Wi-UeoX9cZauCvoTqKGxRUe49hpB1u0nUfR5Y/edit?usp=sharing
+- Lien du Google Slide (Réunion 2) : https://docs.google.com/presentation/d/1qqQbis0sDC6QXrcjaKZpYrz-FVzCQnIO/edit?usp=sharing&ouid=110381826279163598392&rtpof=true&sd=true
