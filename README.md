@@ -23,3 +23,6 @@
 
 **Schéma d'architecture**
 ![Schéma d'architecture](assets/Analyse%20du%20besoin-Architecture.drawio%20(1).png)
+
+**Schéma de données**
+![Schéma de données](assets/Analyse%20du%20besoin-Données.drawio.png)
