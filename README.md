@@ -12,5 +12,5 @@ Gestion de projet et document :
 Diagrammes et Maquettes :
 
 - Lien du Draw.io (diagrames) : https://app.diagrams.net/#G186r9NWLY90ITPSODtisrPWXHZnJHEU4o#%7B"pageId"%3A"-k5l2Q_O5lQ-Y2My_ckt"%7D
-- Lien de l'Excalidraw (diagrame & Wireframe) : https://excalidraw.com/#room=c989a6449b00a0cbcfee,aTrXDlAizMklFaxmIECk6Q
+- Lien de l'Excalidraw (diagramme & Wireframe) : https://excalidraw.com/#room=c989a6449b00a0cbcfee,aTrXDlAizMklFaxmIECk6Q
 - Lien du Figma (Design) : https://www.figma.com/files/team/1580133765927478200/all-projects?fuid=1498610423091382626
