@@ -14,3 +14,12 @@
 - **Lien du Draw.io (diagrames)** : https://app.diagrams.net/#G186r9NWLY90ITPSODtisrPWXHZnJHEU4o#%7B"pageId"%3A"-k5l2Q_O5lQ-Y2My_ckt"%7D
 - **Lien de l'Excalidraw (diagramme & Wireframe)** : https://excalidraw.com/#room=c989a6449b00a0cbcfee,aTrXDlAizMklFaxmIECk6Q
 - **Lien du Figma (Design)** : https://www.figma.com/design/RdhWyLco4mYBZA2Js9OI3z/Analyse-du-besoin?node-id=25-35&t=Lyxjyi9gsDDLYLx7-1
+
+**Diagramme de séquence :**
+![Diagramme de séquence](assets/Analyse%20du%20besoin-Diagramme%20de%20séquence.drawio.png)
+
+**Diagramme d'état**
+![Diagramme d'état](assets/Analyse%20du%20besoin-Diagrammes%20d'état.drawio.png)
+
+**Schéma d'architecture**
+![Schéma d'architecture](assets/Analyse%20du%20besoin-Architecture.drawio%20(1).png)
